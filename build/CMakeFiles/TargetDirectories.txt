@@ -1,0 +1,5 @@
+C:/rahma/rahmadani_edge/build/CMakeFiles/app.dir
+C:/rahma/rahmadani_edge/build/CMakeFiles/edit_cache.dir
+C:/rahma/rahmadani_edge/build/CMakeFiles/rebuild_cache.dir
+C:/rahma/rahmadani_edge/build/edge-impulse-sdk/cmake/zephyr/CMakeFiles/edit_cache.dir
+C:/rahma/rahmadani_edge/build/edge-impulse-sdk/cmake/zephyr/CMakeFiles/rebuild_cache.dir

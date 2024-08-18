@@ -1,0 +1,1 @@
+{"protected":{"ver":"v1","alg":"HS256","iat":1720965541},"signature":"0000000000000000000000000000000000000000000000000000000000000000","payload":{"device_type":"EDGE_IMPULSE_UPLOADER","interval_ms":1000,"sensors":[{"name":"at","units":"N/A"},{"name":"pt","units":"N/A"},{"name":"li","units":"N/A"}],"values":[[36,39,8285]]}}
